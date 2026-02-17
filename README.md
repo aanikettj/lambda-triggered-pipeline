@@ -1,0 +1,1 @@
+I implemented a CI/CD pipeline where AWS Lambda triggers Jenkins pipeline using Jenkins REST API. Lambda acts as event-driven trigger based on S3 or webhook events. Jenkins pipeline performs build, test, and deployment stages automatically.
